@@ -1,0 +1,32 @@
+body{
+    background-color: peachpuff;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+a{
+    color: steelblue;
+
+}
+nav ul {
+    background-color: sandybrown;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: seashell;
+    padding:10px;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: papayawhip;
+}
+table,th,td{
+    border: 1px solid honeydew;
+    border-collapse: collapse;
+    
+}
+tr{
+    background-color: palegoldenrod;
+}
